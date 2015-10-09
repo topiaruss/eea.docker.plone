@@ -1,5 +1,5 @@
 plone:
-  image: eeacms/plone:4.3.6
+  image: eeacms/plone:4.3.6-hotfix20150910
   ports:
   - "80:80"
   environment:

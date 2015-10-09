@@ -18,8 +18,11 @@ your non-related EEA projects.
 
 ## Changelog
 
-### 4.3.6 (2015-08-10)
+### 4.3.6-hotfix20150910 (2015-09-11)
 
+- Added Products.PloneHotfix20150910
+
+### 4.3.6 (2015-08-10)
 
 - Initial public release based on Plone 4.3.6
 
